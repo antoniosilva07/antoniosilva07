@@ -1,5 +1,4 @@
-## Hi there 👋
-
+esse curso e foda demorei uma eternidade pra terminar 
 <!--
 **antoniosilva07/antoniosilva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
